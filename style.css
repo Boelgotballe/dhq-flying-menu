@@ -44,7 +44,7 @@ body {
 .list li a span .in {
     position: absolute;
     left: 0;
-    color: #2aa1ff;
+    color: #00ffa3;
     transform: translateY(100%);
 }
 .list li a:hover span .in {
